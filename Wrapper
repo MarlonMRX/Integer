@@ -1,0 +1,13 @@
+public class Variavel {
+
+    public static void main (String [] args){
+
+        int primeiro =9;
+        Integer segundo = primeiro;
+
+        System.out.println(primeiro);
+        System.out.println(segundo);
+
+    }
+
+}
